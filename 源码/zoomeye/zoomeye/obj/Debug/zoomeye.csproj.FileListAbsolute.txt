@@ -1,0 +1,13 @@
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Debug\zoomeye.exe.config
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Debug\zoomeye.exe
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Debug\zoomeye.pdb
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Debug\zoomeye.csprojResolveAssemblyReference.cache
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Debug\zoomeye.Form1.resources
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Debug\zoomeye.Properties.Resources.resources
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Debug\zoomeye.csproj.GenerateResource.Cache
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Debug\zoomeye.exe
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Debug\zoomeye.pdb
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Debug\Newtonsoft.Json.dll
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Debug\Newtonsoft.Json.xml
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Debug\zoomeye.login.resources
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Debug\zoomeye.Messagecs.resources

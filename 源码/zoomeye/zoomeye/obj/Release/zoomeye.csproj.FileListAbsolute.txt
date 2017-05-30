@@ -1,0 +1,12 @@
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Release\zoomeye.exe.config
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Release\zoomeye.exe
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Release\zoomeye.pdb
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Release\Newtonsoft.Json.dll
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\bin\Release\Newtonsoft.Json.xml
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Release\zoomeye.Form1.resources
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Release\zoomeye.login.resources
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Release\zoomeye.Messagecs.resources
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Release\zoomeye.Properties.Resources.resources
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Release\zoomeye.csproj.GenerateResource.Cache
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Release\zoomeye.exe
+C:\Users\qian\documents\visual studio 2017\Projects\zoomeye\zoomeye\obj\Release\zoomeye.pdb
